@@ -11,7 +11,7 @@ Access the live dashboard here : https://lookerstudio.google.com/s/iVtn0Tjs6u8
 
 **Key Insights from the Analytics**
 
-1. Overview of Sales and Profit:
+**Overview of Sales and Profit:**
 
 The company achieved a total sales revenue of Rs1.4M with a profit of Rs265.8K. A total of 2.2K units were sold to 642 customers, resulting in 1.0K total orders
 
